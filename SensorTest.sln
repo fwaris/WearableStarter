@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "SensorTest", "SensorTest\SensorTest.fsproj", "{FDA5EEE7-B74B-4B5E-9FE0-7949BEBA723F}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "SensorTestWear", "SensorTestWear\SensorTestWear.fsproj", "{77845043-589B-4915-963C-A62DC7416304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77845043-589B-4915-963C-A62DC7416304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77845043-589B-4915-963C-A62DC7416304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77845043-589B-4915-963C-A62DC7416304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77845043-589B-4915-963C-A62DC7416304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA5EEE7-B74B-4B5E-9FE0-7949BEBA723F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA5EEE7-B74B-4B5E-9FE0-7949BEBA723F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA5EEE7-B74B-4B5E-9FE0-7949BEBA723F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA5EEE7-B74B-4B5E-9FE0-7949BEBA723F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = SensorTest\SensorTest.fsproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.VersionControlPolicy = $2
+		$2.inheritsSet = Mono
+	EndGlobalSection
+EndGlobal
