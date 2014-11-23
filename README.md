@@ -20,6 +20,8 @@ and set it up with a host device, you will be guided through the process for set
 
 A few pieces of metadata are needed to make sure that wearable APK is picked and transferred correctly.
 
+For the time being, you will have to manually create the APK from the wearable project and place it in the "Resources/Raw" folder of the host app. Xamarin may update the tooling to this automatically in future.
+
 First see the Google documentation for packaging wearable apps [here](http://developer.android.com/training/wearables/apps/packaging.html).
 This will give you an overview of the packaging and metadata needed. Also see the [Xamarin documentation](http://developer.android.com/wear/index.html).
 
