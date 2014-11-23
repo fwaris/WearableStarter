@@ -59,3 +59,8 @@ When developing the wearable app you can debug it independently from the host ap
 the wearable project - as with any other project. For wearable apps that don't have any communication with the host app, the
 entire app can be developed and debugged in this way. For apps that require host-wearable communication, first deploy a Release version 
 of the wearable app via the host app and then you can deploy Debug versions directly to the wearable.
+
+License
+-------
+
+MIT
